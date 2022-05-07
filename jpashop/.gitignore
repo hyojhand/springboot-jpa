@@ -26,6 +26,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+# 부트 스트랩 코드
+**/src/main/resources/static/css/
+**/src/main/resources/static/js/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
